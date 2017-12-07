@@ -1,0 +1,22 @@
+{
+  "name": "codepipeline-test",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slapula/codepipeline-test.git"
+  },
+  "author": "Aaron Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slapula/codepipeline-test/issues"
+  },
+  "homepage": "https://github.com/slapula/codepipeline-test#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
